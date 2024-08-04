@@ -1,1 +1,1 @@
-# Login-page-frontend
+This repository contains a fully functional and responsive login page developed using HTML, CSS, and JavaScript. The purpose of this project is to demonstrate frontend development skills and create a user-friendly login interface that can be easily integrated into web applications.
